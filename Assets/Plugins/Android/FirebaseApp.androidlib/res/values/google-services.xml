@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1066048463929</string>
+  <string name="google_storage_bucket" translatable="false">mora-games.appspot.com</string>
+  <string name="project_id" translatable="false">mora-games</string>
+  <string name="google_api_key" translatable="false">AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4</string>
+  <string name="google_app_id" translatable="false">1:1066048463929:android:2bc46bf835dd1f3721d9e8</string>
+  <string name="default_web_client_id" translatable="false">1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com</string>
+</resources>

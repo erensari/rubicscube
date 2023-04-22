@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9f183db20884973a7ea475a12845d1, type: 3}
+  m_Name: IronsourceConfig
+  m_EditorClassIdentifier: 
+  iosKey: 18ef014ed
+  androidKey: 18ef04e75
+  enableBanner: 0
+  enableInterstitital: 1
+  enableRewarded: 0
+  enableDebug: 0
+  metaData: []
+  bannerPosition: 0
+  bannerSize: 0

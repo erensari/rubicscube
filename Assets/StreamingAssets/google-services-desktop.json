@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "1066048463929",
+    "project_id": "mora-games",
+    "storage_bucket": "mora-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048463929:ios:928027a2b33b04e021d9e8",
+        "android_client_info": {
+          "package_name": "com.moralabs.rubikscube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048463929-rhv45ipp5airu8upteo8qq24i34busoe.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlsZiQIA-Vi33R6IZDckE1-C7-EkfP60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 389b1ea3b213fd84a963e051f8aa523b
+  m_SerializeEntries:
+  - m_GUID: 95628801ccf7d2d4594df951cc6b3e79
+    m_Address: Click
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+  - m_GUID: 4a632c2db85ae7a4597d0af2f0a74b4e
+    m_Address: Music
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - music
+  - m_GUID: 42672df15f0b8e044b6636d9f9f09545
+    m_Address: Music2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - music
+  - m_GUID: 5abf33140db6bb548b0a56c588a2cec1
+    m_Address: Music3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - music
+  - m_GUID: 4f3fc37445ccbb244be9deb0328dffc6
+    m_Address: Music4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - music
+  - m_GUID: 21f21f2744c1cdd41a0a73e041186aef
+    m_Address: Sliding
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+  - m_GUID: 93a7018a7c655634382eb0a11ebb04a9
+    m_Address: Fireworks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - music
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7b7f26a37f797424d8f7be0bf0014c66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 651aa58ba351c4a40b27447d8fd1e57c, type: 2}
+    - {fileID: 11400000, guid: 4bc16428edcd3e94fa553313d5c36b47, type: 2}

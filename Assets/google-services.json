@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "1066048463929",
+    "project_id": "mora-games",
+    "storage_bucket": "mora-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048463929:android:ef0b9a99685ddb1e21d9e8",
+        "android_client_info": {
+          "package_name": "com.moralabs.islegends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066048463929-0dvhj3afhnatsdvle94f6kc2ef4prc36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moralabs.twins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048463929:android:fb315fb0a1daf59b21d9e8",
+        "android_client_info": {
+          "package_name": "com.moralabs.katy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066048463929-0dvhj3afhnatsdvle94f6kc2ef4prc36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moralabs.twins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048463929:android:2bc46bf835dd1f3721d9e8",
+        "android_client_info": {
+          "package_name": "com.moralabs.rubikscube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066048463929-0dvhj3afhnatsdvle94f6kc2ef4prc36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moralabs.twins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048463929:android:318cab79f733350121d9e8",
+        "android_client_info": {
+          "package_name": "com.moralabs.twins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066048463929-0dvhj3afhnatsdvle94f6kc2ef4prc36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moralabs.twins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048463929:android:8b198f1653e4a23121d9e8",
+        "android_client_info": {
+          "package_name": "com.moralabs.wordchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5ifwUwstboJHNgeXar7KktA-b0TB6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066048463929-1d2aajsm8pajh5fvimgs5u8jrgs0cffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066048463929-0dvhj3afhnatsdvle94f6kc2ef4prc36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moralabs.twins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
