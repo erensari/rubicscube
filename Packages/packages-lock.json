@@ -48,138 +48,6 @@
       },
       "hash": "cf2b0c3c25343eb338f7af557fa93b3175924eac"
     },
-    "com.moralabs.adsystem": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-ad-system.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "b206ded9ac2baa3ae08ed1ac0df52bcffb03ea86"
-    },
-    "com.moralabs.assetsystem": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-asset-system.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.neuecc.unirx": "7.1.0",
-        "com.cysharp.unitask": "2.3.3",
-        "com.unity.addressables": "1.19.19",
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "94c2f89964429762349d3a89d8f52855192fc61b"
-    },
-    "com.moralabs.audiosystem": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-audio.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.moralabs.assetsystem": "1.0.2",
-        "com.cysharp.unitask": "2.3.3",
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "c38a75dfee8a2d0a87264d40cbed41190f2838c6"
-    },
-    "com.moralabs.build": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-build-methods.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "ac15ecf8076800b4fb30d8a5812750bc0e380e70"
-    },
-    "com.moralabs.export": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-export-methods.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "62336d14d53c55b903d0776c8de5fd5eaf1da031"
-    },
-    "com.moralabs.facebook.wrapper": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-facebook.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0",
-        "com.unity.ads.ios-support": "1.2.0"
-      },
-      "hash": "65ae36e1edf5c3402adc66648801801415b1e0a9"
-    },
-    "com.moralabs.factory.prefab": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-factory-prefab.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "26c3d688e884ee854df1498b6e854459b03018f1"
-    },
-    "com.moralabs.inputsystem.pointer": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-input-pointer.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.neuecc.unirx": "7.1.0"
-      },
-      "hash": "0ba0c58cff37e2549beaead1d9a864b674f7dac0"
-    },
-    "com.moralabs.inputsystem.touchsystem": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-input-touch.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.neuecc.unirx": "7.1.0",
-        "com.moralabs.inputsystem.pointer": "1.0.0"
-      },
-      "hash": "559cbfb2215b2fc87eeb6d141ad37bc24da9be8b"
-    },
-    "com.moralabs.ironsourcewrapper": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-ironsource-wrapper.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.neuecc.unirx": "7.1.0",
-        "com.cysharp.unitask": "2.3.3",
-        "com.moralabs.adsystem": "1.0.0",
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "ff6acaef3aedbf766bfadec6b4dd4464acb90793"
-    },
-    "com.moralabs.json": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-json.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "2ff5ce94fb636792929486574900a5014bcbeebf"
-    },
-    "com.moralabs.languagesystem": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-language-system.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.moralabs.json": "1.0.0",
-        "com.moralabs.assetsystem": "1.0.2",
-        "com.cysharp.unitask": "2.3.3",
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "aaceb47898adefb58fdfd8060d40292a9eb41213"
-    },
-    "com.moralabs.popupsystem": {
-      "version": "https://github.com/moralabs-dev/unity-sdk-popup.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.moralabs.assetsystem": "1.0.2",
-        "com.moralabs.factory.prefab": "1.0.0",
-        "com.cysharp.unitask": "2.3.3",
-        "com.neuecc.unirx": "7.1.0",
-        "com.svermeulen.extenject": "9.2.0"
-      },
-      "hash": "9b36fbd0c59966f6d2d89006803de39ba8dc443c"
-    },
     "com.neuecc.unirx": {
       "version": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
       "depth": 0,
@@ -304,27 +172,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.addressables": {
-      "version": "1.19.19",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.scriptablebuildpipeline": "1.19.6",
-        "com.unity.modules.assetbundle": "1.0.0",
-        "com.unity.modules.imageconversion": "1.0.0",
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.unitywebrequest": "1.0.0",
-        "com.unity.modules.unitywebrequestassetbundle": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.ads.ios-support": {
-      "version": "1.2.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.unity.burst": {
       "version": "1.6.6",
       "depth": 3,
@@ -405,13 +252,6 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.scriptablebuildpipeline": {
-      "version": "1.20.1",
       "depth": 2,
       "source": "registry",
       "dependencies": {},

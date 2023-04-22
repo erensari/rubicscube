@@ -5,21 +5,18 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
-using Morautils.InputSystem.Pointer;
 using UniRx;
 using System;
 using Random = UnityEngine.Random;
 using Com.Moralabs.RubiksCube.Manager;
-using Morautils.JsonHelper;
-using Morautils.PopupSystem;
 using System.Collections;
 using System.Globalization;
 using Com.Moralabs.RubiksCube.AnalyticsSystem;
-using Morautils.AudioSystem;
 using Com.Moralabs.RubiksCube.Util;
 using Cysharp.Threading.Tasks;
 
-namespace Com.Moralabs.RubiksCube.Game.Manager {
+namespace Com.Moralabs.RubiksCube.Game.Manager
+{
     public class GameManager : MonoBehaviour {
 
         [SerializeField] private Block _blockPrefab;
